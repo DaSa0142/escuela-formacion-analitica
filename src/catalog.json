@@ -1,0 +1,1010 @@
+{
+  "courses": [
+    {
+      "code": "EFA-01",
+      "title": "Inteligencia y análisis criminal",
+      "level": "Básico",
+      "position": 1,
+      "hours_per_module": 4,
+      "hours": 28
+    },
+    {
+      "code": "EFA-09",
+      "title": "Análisis estadístico aplicado a la criminalidad",
+      "level": "Básico",
+      "position": 2,
+      "hours_per_module": 4,
+      "hours": 28
+    },
+    {
+      "code": "EFA-11",
+      "title": "Gobernanza de datos y elaboración de productos de análisis criminal",
+      "level": "Básico",
+      "position": 3,
+      "hours_per_module": 4,
+      "hours": 24
+    },
+    {
+      "code": "EFA-12",
+      "title": "Ética, legalidad, protección de datos y evaluación de la calidad del análisis",
+      "level": "Básico",
+      "position": 4,
+      "hours_per_module": 4,
+      "hours": 32
+    },
+    {
+      "code": "EFA-04",
+      "title": "Análisis digital y ciberdelincuencia",
+      "level": "Intermedio",
+      "position": 5,
+      "hours_per_module": 6,
+      "hours": 42
+    },
+    {
+      "code": "EFA-05",
+      "title": "Ciencia de datos e inteligencia artificial",
+      "level": "Intermedio",
+      "position": 6,
+      "hours_per_module": 6,
+      "hours": 48
+    },
+    {
+      "code": "EFA-06",
+      "title": "Análisis de reportes telefónicos y telecomunicaciones",
+      "level": "Intermedio",
+      "position": 7,
+      "hours_per_module": 6,
+      "hours": 54
+    },
+    {
+      "code": "EFA-08",
+      "title": "Sistemas de información geográfica y geointeligencia",
+      "level": "Intermedio",
+      "position": 8,
+      "hours_per_module": 6,
+      "hours": 42
+    },
+    {
+      "code": "EFA-10",
+      "title": "Análisis del reclutamiento y utilización de niños, niñas y adolescentes por organizaciones criminales",
+      "level": "Intermedio",
+      "position": 9,
+      "hours_per_module": 6,
+      "hours": 48
+    },
+    {
+      "code": "EFA-02",
+      "title": "Análisis prospectivo y estratégico",
+      "level": "Avanzado",
+      "position": 10,
+      "hours_per_module": 8,
+      "hours": 56
+    },
+    {
+      "code": "EFA-03",
+      "title": "Análisis operacional e investigaciones complejas",
+      "level": "Avanzado",
+      "position": 11,
+      "hours_per_module": 8,
+      "hours": 72
+    },
+    {
+      "code": "EFA-07",
+      "title": "Graficación y análisis de vínculos con i2 Analyst’s Notebook",
+      "level": "Avanzado",
+      "position": 12,
+      "hours_per_module": 8,
+      "hours": 72
+    },
+    {
+      "code": "EFA-13",
+      "title": "Formación de instructores y sostenibilidad de capacidades analíticas",
+      "level": "Avanzado",
+      "position": 13,
+      "hours_per_module": 8,
+      "hours": 64
+    }
+  ],
+  "modules": [
+    {
+      "code": "EFA-01-M01",
+      "course_code": "EFA-01",
+      "position": 1,
+      "title": "Ciclo de inteligencia policial",
+      "video_url": "https://www.youtube.com/watch?v=NjdnNDHtB9Y",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de ciclo de inteligencia policial y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M02",
+      "course_code": "EFA-01",
+      "position": 2,
+      "title": "Análisis de patrones delictivos",
+      "video_url": "https://www.youtube.com/watch?v=AVsN8-VXhVA",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de análisis de patrones delictivos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M03",
+      "course_code": "EFA-01",
+      "position": 3,
+      "title": "Análisis de vínculos criminales",
+      "video_url": "",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de análisis de vínculos criminales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M04",
+      "course_code": "EFA-01",
+      "position": 4,
+      "title": "Fusión de datos",
+      "video_url": "https://www.youtube.com/watch?v=-jla2d8iiwc",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de fusión de datos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M05",
+      "course_code": "EFA-01",
+      "position": 5,
+      "title": "Elaboración de productos de inteligencia",
+      "video_url": "",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de elaboración de productos de inteligencia y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M06",
+      "course_code": "EFA-01",
+      "position": 6,
+      "title": "Técnicas de análisis estructurado",
+      "video_url": "",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de técnicas de análisis estructurado y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-01-M07",
+      "course_code": "EFA-01",
+      "position": 7,
+      "title": "Análisis de redes criminales",
+      "video_url": "https://www.youtube.com/watch?v=vfoCZ6OOhM",
+      "resource_url": "https://www.college.police.uk/app/intelligence-management",
+      "description": "Estudio guiado de análisis de redes criminales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M01",
+      "course_code": "EFA-09",
+      "position": 1,
+      "title": "Estadística descriptiva",
+      "video_url": "https://www.youtube.com/watch?v=GJNf7LpqpnI",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de estadística descriptiva y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M02",
+      "course_code": "EFA-09",
+      "position": 2,
+      "title": "Estadística inferencial",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de estadística inferencial y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M03",
+      "course_code": "EFA-09",
+      "position": 3,
+      "title": "Análisis multivariable",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis multivariable y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M04",
+      "course_code": "EFA-09",
+      "position": 4,
+      "title": "Series temporales",
+      "video_url": "https://www.youtube.com/watch?v=miOZzjArgFc",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de series temporales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M05",
+      "course_code": "EFA-09",
+      "position": 5,
+      "title": "Modelación estadística",
+      "video_url": "https://www.youtube.com/watch?v=Hb1ypzQfr6A",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de modelación estadística y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M06",
+      "course_code": "EFA-09",
+      "position": 6,
+      "title": "Análisis estadístico geoespacial",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis estadístico geoespacial y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-09-M07",
+      "course_code": "EFA-09",
+      "position": 7,
+      "title": "Automatización de estadísticas",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de automatización de estadísticas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M01",
+      "course_code": "EFA-11",
+      "position": 1,
+      "title": "Calidad y gobernanza de datos",
+      "video_url": "https://www.youtube.com/watch?v=-jla2d8iiwc",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de calidad y gobernanza de datos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M02",
+      "course_code": "EFA-11",
+      "position": 2,
+      "title": "Administración de bases de datos",
+      "video_url": "https://www.youtube.com/watch?v=OuJerKzV5T0",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de administración de bases de datos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M03",
+      "course_code": "EFA-11",
+      "position": 3,
+      "title": "Redacción de informes de análisis criminal",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de redacción de informes de análisis criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M04",
+      "course_code": "EFA-11",
+      "position": 4,
+      "title": "Elaboración de productos estratégicos",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de elaboración de productos estratégicos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M05",
+      "course_code": "EFA-11",
+      "position": 5,
+      "title": "Visualización y presentación de información",
+      "video_url": "https://www.youtube.com/watch?v=lAebJGKPRdc",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de visualización y presentación de información y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-11-M06",
+      "course_code": "EFA-11",
+      "position": 6,
+      "title": "Evaluación de la calidad analítica",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/paths/prepare-data-power-bi/",
+      "description": "Estudio guiado de evaluación de la calidad analítica y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M01",
+      "course_code": "EFA-12",
+      "position": 1,
+      "title": "Ética profesional del analista criminal",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de ética profesional del analista criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M02",
+      "course_code": "EFA-12",
+      "position": 2,
+      "title": "Normativa legal aplicada al análisis criminal",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de normativa legal aplicada al análisis criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M03",
+      "course_code": "EFA-12",
+      "position": 3,
+      "title": "Protección de datos personales",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de protección de datos personales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M04",
+      "course_code": "EFA-12",
+      "position": 4,
+      "title": "Protección de información de víctimas y menores de edad",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de protección de información de víctimas y menores de edad y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M05",
+      "course_code": "EFA-12",
+      "position": 5,
+      "title": "Evaluación de fuentes y confiabilidad de la información",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de evaluación de fuentes y confiabilidad de la información y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M06",
+      "course_code": "EFA-12",
+      "position": 6,
+      "title": "Técnicas de análisis estructurado",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de técnicas de análisis estructurado y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M07",
+      "course_code": "EFA-12",
+      "position": 7,
+      "title": "Evaluación de la calidad de productos analíticos",
+      "video_url": "",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de evaluación de la calidad de productos analíticos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-12-M08",
+      "course_code": "EFA-12",
+      "position": 8,
+      "title": "Uso ético y responsable de inteligencia artificial",
+      "video_url": "https://www.youtube.com/watch?v=HzYG56HLxbl",
+      "resource_url": "https://www.unesco.org/es/legal-affairs/recommendation-ethics-artificial-intelligence",
+      "description": "Estudio guiado de uso ético y responsable de inteligencia artificial y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M01",
+      "course_code": "EFA-04",
+      "position": 1,
+      "title": "Extracción de datos de celulares",
+      "video_url": "https://www.youtube.com/watch?v=EMxZVihytMo",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de extracción de datos de celulares y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M02",
+      "course_code": "EFA-04",
+      "position": 2,
+      "title": "Geolocalización de dispositivos",
+      "video_url": "https://www.youtube.com/watch?v=QFIO8nRYdyc",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de geolocalización de dispositivos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M03",
+      "course_code": "EFA-04",
+      "position": 3,
+      "title": "Cruce de llamadas y telecomunicaciones",
+      "video_url": "",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de cruce de llamadas y telecomunicaciones y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M04",
+      "course_code": "EFA-04",
+      "position": 4,
+      "title": "OSINT",
+      "video_url": "",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de osint y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M05",
+      "course_code": "EFA-04",
+      "position": 5,
+      "title": "Análisis de evidencias digitales",
+      "video_url": "https://www.youtube.com/watch?v=ZUqzcQc_syE",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de análisis de evidencias digitales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M06",
+      "course_code": "EFA-04",
+      "position": 6,
+      "title": "Análisis de comunicaciones digitales",
+      "video_url": "",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de análisis de comunicaciones digitales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-04-M07",
+      "course_code": "EFA-04",
+      "position": 7,
+      "title": "Correlación de información digital",
+      "video_url": "",
+      "resource_url": "https://csrc.nist.gov/pubs/sp/800/101/r1/final",
+      "description": "Estudio guiado de correlación de información digital y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M01",
+      "course_code": "EFA-05",
+      "position": 1,
+      "title": "Big Data policial",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de big data policial y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M02",
+      "course_code": "EFA-05",
+      "position": 2,
+      "title": "Inteligencia artificial aplicada a la investigación",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de inteligencia artificial aplicada a la investigación y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M03",
+      "course_code": "EFA-05",
+      "position": 3,
+      "title": "Minería de datos criminales",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de minería de datos criminales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M04",
+      "course_code": "EFA-05",
+      "position": 4,
+      "title": "Estadística aplicada al análisis criminal",
+      "video_url": "https://www.youtube.com/watch?v=GJNf7LpqpnI",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de estadística aplicada al análisis criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M05",
+      "course_code": "EFA-05",
+      "position": 5,
+      "title": "Análisis avanzado de datos",
+      "video_url": "https://www.youtube.com/watch?v=OuJerKzV5T0",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de análisis avanzado de datos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M06",
+      "course_code": "EFA-05",
+      "position": 6,
+      "title": "Modelos estadísticos y predictivos",
+      "video_url": "https://www.youtube.com/watch?v=Hb1ypzQfr6A",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de modelos estadísticos y predictivos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M07",
+      "course_code": "EFA-05",
+      "position": 7,
+      "title": "Inteligencia de negocios (Business Intelligence)",
+      "video_url": "https://www.youtube.com/watch?v=lAebJGKPRdc",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de inteligencia de negocios (business intelligence) y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-05-M08",
+      "course_code": "EFA-05",
+      "position": 8,
+      "title": "Automatización y calidad de información",
+      "video_url": "",
+      "resource_url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+      "description": "Estudio guiado de automatización y calidad de información y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M01",
+      "course_code": "EFA-06",
+      "position": 1,
+      "title": "Análisis de registros de detalle de llamadas (CDR)",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis de registros de detalle de llamadas (cdr) y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M02",
+      "course_code": "EFA-06",
+      "position": 2,
+      "title": "Análisis de patrones de comunicaciones",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis de patrones de comunicaciones y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M03",
+      "course_code": "EFA-06",
+      "position": 3,
+      "title": "Cruce de reportes telefónicos",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de cruce de reportes telefónicos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M04",
+      "course_code": "EFA-06",
+      "position": 4,
+      "title": "Análisis de datos de abonados",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis de datos de abonados y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M05",
+      "course_code": "EFA-06",
+      "position": 5,
+      "title": "Análisis de IMEI, IMSI y registros asociados",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis de imei, imsi y registros asociados y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M06",
+      "course_code": "EFA-06",
+      "position": 6,
+      "title": "Análisis de telefonía celular y estaciones base",
+      "video_url": "https://www.youtube.com/watch?v=QFIO8nRYdyc",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis de telefonía celular y estaciones base y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M07",
+      "course_code": "EFA-06",
+      "position": 7,
+      "title": "Análisis temporal de comunicaciones",
+      "video_url": "https://www.youtube.com/watch?v=VavqGswt5yk",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis temporal de comunicaciones y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M08",
+      "course_code": "EFA-06",
+      "position": 8,
+      "title": "Análisis geoespacial de información telefónica",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de análisis geoespacial de información telefónica y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-06-M09",
+      "course_code": "EFA-06",
+      "position": 9,
+      "title": "Elaboración de informes de análisis telefónico",
+      "video_url": "",
+      "resource_url": "https://www.ibm.com/docs/SS3J58_9.2.1/com.ibm.i2.anb.doc/analysts_notebook_pdf.pdf",
+      "description": "Estudio guiado de elaboración de informes de análisis telefónico y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M01",
+      "course_code": "EFA-08",
+      "position": 1,
+      "title": "ArcGIS Pro básico a avanzado",
+      "video_url": "",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de arcgis pro básico a avanzado y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M02",
+      "course_code": "EFA-08",
+      "position": 2,
+      "title": "Crime Analysis y herramientas especializadas de ArcGIS",
+      "video_url": "",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de crime analysis y herramientas especializadas de arcgis y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M03",
+      "course_code": "EFA-08",
+      "position": 3,
+      "title": "Estadística espacial del delito",
+      "video_url": "https://www.youtube.com/watch?v=zvRnOdWZujE",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de estadística espacial del delito y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M04",
+      "course_code": "EFA-08",
+      "position": 4,
+      "title": "Georreferenciación y bases de datos espaciales",
+      "video_url": "",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de georreferenciación y bases de datos espaciales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M05",
+      "course_code": "EFA-08",
+      "position": 5,
+      "title": "Análisis espacio-temporal",
+      "video_url": "",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de análisis espacio-temporal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M06",
+      "course_code": "EFA-08",
+      "position": 6,
+      "title": "Integración de reportes telefónicos y datos espaciales",
+      "video_url": "",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de integración de reportes telefónicos y datos espaciales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-08-M07",
+      "course_code": "EFA-08",
+      "position": 7,
+      "title": "Elaboración de mapas de riesgo y tableros geográficos",
+      "video_url": "https://www.youtube.com/watch?v=L5bqU3ApQB4",
+      "resource_url": "https://learn.arcgis.com/es/paths/getting-started-with-crime-analysis/",
+      "description": "Estudio guiado de elaboración de mapas de riesgo y tableros geográficos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M01",
+      "course_code": "EFA-10",
+      "position": 1,
+      "title": "Análisis del reclutamiento de menores",
+      "video_url": "https://www.youtube.com/watch?v=adp9TgLOlKo",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de análisis del reclutamiento de menores y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M02",
+      "course_code": "EFA-10",
+      "position": 2,
+      "title": "Reclutamiento de menores y muertes violentas",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de reclutamiento de menores y muertes violentas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M03",
+      "course_code": "EFA-10",
+      "position": 3,
+      "title": "Desapariciones de menores vinculadas con reclutamiento",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de desapariciones de menores vinculadas con reclutamiento y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M04",
+      "course_code": "EFA-10",
+      "position": 4,
+      "title": "Factores de riesgo y vulnerabilidad",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de factores de riesgo y vulnerabilidad y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M05",
+      "course_code": "EFA-10",
+      "position": 5,
+      "title": "Análisis territorial del reclutamiento",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de análisis territorial del reclutamiento y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M06",
+      "course_code": "EFA-10",
+      "position": 6,
+      "title": "Análisis de patrones de captación",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de análisis de patrones de captación y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M07",
+      "course_code": "EFA-10",
+      "position": 7,
+      "title": "Indicadores y alertas tempranas",
+      "video_url": "",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de indicadores y alertas tempranas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-10-M08",
+      "course_code": "EFA-10",
+      "position": 8,
+      "title": "Enfoque de protección integral",
+      "video_url": "https://www.youtube.com/watch?v=7yO4qwtj1EM",
+      "resource_url": "https://www.unicef.org/ecuador/publicaciones-y-recursos",
+      "description": "Estudio guiado de enfoque de protección integral y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M01",
+      "course_code": "EFA-02",
+      "position": 1,
+      "title": "Análisis prospectivo del delito",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis prospectivo del delito y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M02",
+      "course_code": "EFA-02",
+      "position": 2,
+      "title": "Análisis estratégico criminal",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis estratégico criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M03",
+      "course_code": "EFA-02",
+      "position": 3,
+      "title": "Análisis predictivo del delito",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis predictivo del delito y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M04",
+      "course_code": "EFA-02",
+      "position": 4,
+      "title": "Geoperfilación",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de geoperfilación y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M05",
+      "course_code": "EFA-02",
+      "position": 5,
+      "title": "Escenarios de riesgo",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de escenarios de riesgo y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M06",
+      "course_code": "EFA-02",
+      "position": 6,
+      "title": "Análisis de tendencias delictivas",
+      "video_url": "https://www.youtube.com/watch?v=VavqGswt5yk",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de análisis de tendencias delictivas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-02-M07",
+      "course_code": "EFA-02",
+      "position": 7,
+      "title": "Prospectiva de estructuras criminales",
+      "video_url": "",
+      "resource_url": "https://otexts.com/fpp3/",
+      "description": "Estudio guiado de prospectiva de estructuras criminales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M01",
+      "course_code": "EFA-03",
+      "position": 1,
+      "title": "Inteligencia táctica",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de inteligencia táctica y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M02",
+      "course_code": "EFA-03",
+      "position": 2,
+      "title": "Gestión de investigaciones complejas",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de gestión de investigaciones complejas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M03",
+      "course_code": "EFA-03",
+      "position": 3,
+      "title": "Fusión de información operativa",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de fusión de información operativa y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M04",
+      "course_code": "EFA-03",
+      "position": 4,
+      "title": "Investigación operativa de homicidios intencionales",
+      "video_url": "https://www.youtube.com/watch?v=AVsN8-VXhVA",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de investigación operativa de homicidios intencionales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M05",
+      "course_code": "EFA-03",
+      "position": 5,
+      "title": "Investigación operativa de delitos de desaparición involuntaria",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de investigación operativa de delitos de desaparición involuntaria y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M06",
+      "course_code": "EFA-03",
+      "position": 6,
+      "title": "Análisis de casos de personas desaparecidas",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de análisis de casos de personas desaparecidas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M07",
+      "course_code": "EFA-03",
+      "position": 7,
+      "title": "Técnicas de búsqueda y localización de personas",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de técnicas de búsqueda y localización de personas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M08",
+      "course_code": "EFA-03",
+      "position": 8,
+      "title": "Desarrollo de alertas internacionales",
+      "video_url": "",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de desarrollo de alertas internacionales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-03-M09",
+      "course_code": "EFA-03",
+      "position": 9,
+      "title": "Sistemas internacionales de alerta de menores",
+      "video_url": "https://www.youtube.com/watch?v=7yO4qwtj1EM",
+      "resource_url": "https://www.interpol.int/es/Como-trabajamos/Notificaciones/Acerca-de-las-notificaciones",
+      "description": "Estudio guiado de sistemas internacionales de alerta de menores y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M01",
+      "course_code": "EFA-07",
+      "position": 1,
+      "title": "Fundamentos de i2 Analyst’s Notebook",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de fundamentos de i2 analyst’s notebook y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M02",
+      "course_code": "EFA-07",
+      "position": 2,
+      "title": "Importación de información a i2",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de importación de información a i2 y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M03",
+      "course_code": "EFA-07",
+      "position": 3,
+      "title": "Graficación de reportes telefónicos",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de graficación de reportes telefónicos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M04",
+      "course_code": "EFA-07",
+      "position": 4,
+      "title": "Análisis de redes y vínculos criminales",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de análisis de redes y vínculos criminales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M05",
+      "course_code": "EFA-07",
+      "position": 5,
+      "title": "Análisis de frecuencia y temporalidad",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de análisis de frecuencia y temporalidad y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M06",
+      "course_code": "EFA-07",
+      "position": 6,
+      "title": "Análisis de grafos y redes sociales",
+      "video_url": "https://www.youtube.com/watch?v=7fsreJMy_pI",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de análisis de grafos y redes sociales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M07",
+      "course_code": "EFA-07",
+      "position": 7,
+      "title": "Integración de información multifuente",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de integración de información multifuente y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M08",
+      "course_code": "EFA-07",
+      "position": 8,
+      "title": "Elaboración de productos analíticos en i2",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de elaboración de productos analíticos en i2 y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-07-M09",
+      "course_code": "EFA-07",
+      "position": 9,
+      "title": "Análisis avanzado con i2 iBase y otras soluciones i2",
+      "video_url": "",
+      "resource_url": "https://www.i2group.com/videos",
+      "description": "Estudio guiado de análisis avanzado con i2 ibase y otras soluciones i2 y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M01",
+      "course_code": "EFA-13",
+      "position": 1,
+      "title": "Formación de instructores en análisis criminal",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de formación de instructores en análisis criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M02",
+      "course_code": "EFA-13",
+      "position": 2,
+      "title": "Formación de instructores especializados en herramientas tecnológicas",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de formación de instructores especializados en herramientas tecnológicas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M03",
+      "course_code": "EFA-13",
+      "position": 3,
+      "title": "Diseño curricular de programas de análisis criminal",
+      "video_url": "https://www.youtube.com/watch?v=YV55wtPgdtY",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de diseño curricular de programas de análisis criminal y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M04",
+      "course_code": "EFA-13",
+      "position": 4,
+      "title": "Metodologías de enseñanza mediante estudios de casos",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de metodologías de enseñanza mediante estudios de casos y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M05",
+      "course_code": "EFA-13",
+      "position": 5,
+      "title": "Transferencia de conocimientos y buenas prácticas internacionales",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de transferencia de conocimientos y buenas prácticas internacionales y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M06",
+      "course_code": "EFA-13",
+      "position": 6,
+      "title": "Estandarización de metodologías analíticas",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de estandarización de metodologías analíticas y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M07",
+      "course_code": "EFA-13",
+      "position": 7,
+      "title": "Actualización y formación continua",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de actualización y formación continua y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    },
+    {
+      "code": "EFA-13-M08",
+      "course_code": "EFA-13",
+      "position": 8,
+      "title": "Gestión y conservación del conocimiento institucional",
+      "video_url": "",
+      "resource_url": "https://www.unodc.org/elearning/en/courses/course-catalogue.html",
+      "description": "Estudio guiado de gestión y conservación del conocimiento institucional y su aplicación a escenarios de análisis criminal. Utilizar datos simulados o autorizados y documentar fuentes, límites y procedimientos."
+    }
+  ]
+}
